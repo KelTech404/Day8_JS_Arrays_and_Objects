@@ -32,7 +32,7 @@ console.log(testUsers.length)
 console.log(browsers.length)
 console.log(environments.length)
 
-// //Indices - All indices start at. A good edge case is to test the index minus 1 (-1) as many bugs can be found in that boundary range
+// //Indices - All indices start at 0. A good edge case is to test the index minus 1 (-1) as many bugs can be found in that boundary range
 // console.log(testUsers [0])
 // console.log(browsers [0])
 // console.log(environments[0])
